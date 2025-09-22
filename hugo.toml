@@ -1,0 +1,4 @@
+baseURL = 'https://allvibes.fi/'
+languageCode = 'fi'
+title = 'All vibes'
+theme = 'hello-friend-ng'
