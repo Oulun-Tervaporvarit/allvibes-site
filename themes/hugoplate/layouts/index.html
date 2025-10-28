@@ -1,0 +1,160 @@
+{{ define "main" }}
+  <!-- Banner -->
+  {{ with .Params.banner }}
+    <section class="section pt-14">
+      <div class="container">
+        <div class="row justify-center">
+          <div class="lg:col-7 md:col-9 mb-8 text-center">
+            <style>
+              .banner-title {
+                @apply uppercase;
+                color: white;
+                text-shadow:0px 0px 6px #FF7926;
+              }
+            </style>
+            <h1 class="mb-4 text-h3 lg:text-h1 banner-title">
+              {{ .title | markdownify }}
+            </h1>
+            <p class="mb-8">
+              {{ .content | markdownify }}
+            </p>
+            {{ with .button }}
+              {{ if .enable }}
+                <a
+                  class="btn btn-primary banner-button uppercase"
+                  href="{{ .link | absURL }}"
+                  {{ if strings.HasPrefix .link `http` }}
+                    target="_blank" rel="noopener"
+                  {{ end }}>
+                  {{ .label }}
+                </a>
+              {{ end }}
+            {{ end }}
+          </div>
+          {{ if .image }}
+          <div class="col-12">
+            {{ partial "image" (dict "Src" .image "Alt" "Banner image" "Loading" "eager" "Class" "mx-auto lg:!max-w-[800px]" "DisplayXL" "800x" ) }}
+          </div>
+          {{ end }}
+        </div>
+      </div>
+    </section>
+  {{ end }}
+  <!-- /Banner -->
+
+  <!-- Features -->
+  {{ range $i, $e:= .Params.features }}
+    <section class="section-sm {{ if not (modBool $i 2) }}second-section{{ end }}{{ if (modBool $i 2) }}first-section{{ end }}"> <!-- {{ if (modBool $i 2) }}bg-gradient{{ end }} -->
+      <div class="container">
+        <div class="row items-center justify-between">
+          <div
+            class="mb:md-0 {{ if not (modBool $i 2) }}
+              md:order-2
+            {{ end }} md:col-5 mb-6">
+            {{ partial "image" (dict "Src" .image "Alt" "feature image" "DisplayXL" "520x" "DisplayLG" "425x" "DisplayMD" "360x") }}
+          </div>
+          <div
+            class="{{ if not (modBool $i 2) }}
+              md:order-1
+            {{ end }} md:col-7 lg:col-6">
+            <h2 class="mb-4 uppercase">
+              {{ .title | markdownify }}
+            </h2>
+            <p class="mb-8 text-lg">
+              {{ .content | markdownify }}
+            </p>
+            <ul>
+              {{ range .bulletpoints }}
+                <li class="relative mb-4 pl-6">
+                  <i class="fa fa-check absolute left-0 top-1.5"></i>
+                  {{ . | markdownify }}
+                </li>
+              {{ end }}
+            </ul>
+            {{ with .button }}
+              {{ if .enable }}
+                <a class="btn btn-primary mt-6" href="{{ .link | absURL }}">
+                  {{ .label }}
+                  <i class="fa fa-arrow-right pl-2"></i>
+                </a>
+              {{ end }}
+            {{ end }}
+          </div>
+        </div>
+      </div>
+    </section>
+  {{ end }}
+  <!-- /Features -->
+
+  <!-- Testimonials -->
+  {{ with site.GetPage "sections/testimonial" }}
+    {{ if .Params.enable }}
+      <section class="section testimonials" id="kumppanit">
+        <div class="container">
+          <div class="row">
+            <div class="md:col-10 lg:col-8 xl:col-6 mx-auto mb-12 text-center">
+              <h2 class="mb-4" style="color: black;">
+                {{ .Title | markdownify }}
+              </h2>
+              <p>
+                {{ .Params.description | markdownify }}
+              </p>
+            </div>
+            <div class="col-12">
+              <div class="swiper testimonial-slider">
+                <div class="swiper-wrapper">
+                  {{ range .Params.testimonials }}
+                    <div class="swiper-slide">
+                      <div style="background-color: white; color: black;"
+                        class="px-7 py-10">
+                        <div class="text-text-light flex justify-center">
+                          {{ partial "image" (dict "Src" .avatar "Size" "50x50" "Class" "rounded-full" "Alt" .name) }}
+                        </div>
+                        <blockquote class="mt-8 flex justify-center">
+                          {{ .content | markdownify }}
+                        </blockquote>
+                        <div class="mt-11 flex items-center">
+                          
+                          <div class="ml-4">
+                            <p>
+                              {{ .greetings | markdownify }}
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  {{ end }}
+                </div>
+               <!-- <div
+                  class="testimonial-slider-pagination mt-9 flex items-center justify-center text-center"></div>-->
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    {{ end }}
+  {{ end }}
+  <!-- /Testimonials -->
+
+  <!-- metrics -->
+  {{ with site.GetPage "sections/metrics" }}
+    {{ if .Params.enable }}
+      <section class="metrics">
+        <div class="container flex items-center justify-center" style="gap: 0.625rem">
+        {{ range .Params.metrics }}
+          <div style="height: 200px; width: 24.5rem; background-color: {{ .color }}; color: black;"
+              class="px-7 py-10">
+              <h2 class="mt-2">
+                {{ .title | markdownify }}
+              </h2>
+              <h4 class="mt-2">
+                {{ .content | markdownify  }}
+              </h4>
+            </div>
+        {{ end }}
+        </div>
+      </section>
+    {{ end }}
+  {{ end }}
+  <!-- /metrics -->
+{{ end }}
