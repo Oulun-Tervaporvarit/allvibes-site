@@ -1,7 +1,7 @@
 ---
 # Banner
 banner:
-  title: "ALL VIBES OKAY"
+  title: "ALL VIBES OK"
   content: ""
   # image: "/images/banner.png"
   button:

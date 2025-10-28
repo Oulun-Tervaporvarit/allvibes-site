@@ -64,7 +64,7 @@ content = "You must replace the **baseURL** in **hugo.toml** file when deploying
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
 keywords = ["JCI", "Oulun Tervaporvarit", "Oulu", "Kempele", "Nuoret", "Vibes"]
-description = "ALL VIBES OKAY"
+description = "ALL VIBES OK"
 author = "Oulun Tervaporvarit"
 image = "images/og-image.png"
 
