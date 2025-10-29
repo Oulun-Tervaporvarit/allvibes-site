@@ -10,10 +10,10 @@ testimonials:
     avatar: "/images/partners/oulu.png"
     content: "Yhteistyöasiaa"
 
-  - name: "Marvin McKinney"
-    greetings: "Terkuin ..."
-    avatar: "/images/partners/kempele.png"
-    content: "Yhteistyöasiaa"
+  #- name: "Marvin McKinney"
+  #  greetings: "Terkuin ..."
+  #  avatar: "/images/partners/kempele.png"
+  #  content: "Yhteistyöasiaa"
 
 # don't create a separate page
 build:

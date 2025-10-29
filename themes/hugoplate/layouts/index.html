@@ -171,7 +171,7 @@
         <div style="max-width: 100rem;">
           <div class="grid grid-flow-row-dense grid-cols-3 gap-4">
             {{ range .Params.metrics }}
-              <div style="height: 200px; background-color: {{ .color }}"
+              <div style="height: 200px; overflow-wrap: break-word; background-color: {{ .color }}"
                   class="col-span-1 px-7 py-10">
                   <h2 class="mt-2">
                     {{ .title | markdownify }}
