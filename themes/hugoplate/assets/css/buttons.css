@@ -2,6 +2,11 @@
   @apply inline-block rounded border border-transparent px-5 py-2 font-semibold capitalize transition;
 }
 
+/* Improve UX by darkening button on hover */
+.btn:hover {
+  filter: brightness(60%);
+}
+
 .btn-sm {
   @apply rounded-sm px-4 py-1.5 text-sm;
 }

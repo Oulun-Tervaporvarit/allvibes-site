@@ -2,10 +2,11 @@ html {
   @apply text-base-sm md:text-base;
 }
 
+
+
 body {
   @apply bg-body text-base dark:bg-darkmode-body font-primary font-normal leading-relaxed text-text dark:text-darkmode-text;
 }
-
 h1,
 h2,
 h3,

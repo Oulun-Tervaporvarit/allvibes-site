@@ -1,5 +1,14 @@
 {{ define "main" }}
   <!-- Banner -->
+
+  {{ $logo := resources.GetMatch "images/background-smiles.png" }}
+
+  <style>
+    body {
+      background-image: linear-gradient(rgba(0, 0, 0, .8), rgba(0, 0, 0, .8)), url({{$logo.Permalink}});
+    }
+  </style>
+
   {{ with .Params.banner }}
     <section class="section pt-14">
       <div class="container">
@@ -9,7 +18,7 @@
               .banner-title {
                 @apply uppercase;
                 color: white;
-                text-shadow:0px 0px 6px #FF7926;
+                text-shadow:0px 0px 8px #FF7926;
               }
             </style>
             <h1 class="mb-4 text-h3 lg:text-h1 banner-title">
@@ -51,7 +60,7 @@
             class="mb:md-0 {{ if not (modBool $i 2) }}
               md:order-2
             {{ end }} md:col-5 mb-6">
-            {{ partial "image" (dict "Src" .image "Alt" "feature image" "DisplayXL" "520x" "DisplayLG" "425x" "DisplayMD" "360x") }}
+            <!--{{ partial "image" (dict "Src" .image "Alt" "feature image" "DisplayXL" "520x" "DisplayLG" "425x" "DisplayMD" "360x") }}-->
           </div>
           <div
             class="{{ if not (modBool $i 2) }}
@@ -102,9 +111,9 @@
             </div>
             <div class="col-12">
               <div class="swiper testimonial-slider">
-                <div class="swiper-wrapper">
+                <div class="swiper-wrapper flex justify-center items-end">
                   {{ range .Params.testimonials }}
-                    <div class="swiper-slide">
+                    <!--<div class="swiper-slide">
                       <div style="background-color: white; color: black;"
                         class="px-7 py-10">
                         <div class="text-text-light flex justify-center">
@@ -122,6 +131,12 @@
                           </div>
                         </div>
                       </div>
+                    </div>-->
+
+                    <div class="px-5 py-5">
+                        {{ partial "image" (dict "Src" .avatar "Size" "200x" "Alt" .name) }}
+                          <!--{{ partial "image" (dict "Src" .avatar "Alt" .name) }}-->
+        
                     </div>
                   {{ end }}
                 </div>
@@ -139,8 +154,8 @@
   <!-- metrics -->
   {{ with site.GetPage "sections/metrics" }}
     {{ if .Params.enable }}
-      <section class="metrics">
-        <div class="container flex items-center justify-center" style="gap: 0.625rem">
+      <section class="metrics flex items-center justify-center">
+        <!--<div class="container flex items-center justify-center" style="gap: 0.625rem">
         {{ range .Params.metrics }}
           <div style="height: 200px; width: 24.5rem; background-color: {{ .color }}; color: black;"
               class="px-7 py-10">
@@ -152,7 +167,23 @@
               </h4>
             </div>
         {{ end }}
+        </div>-->
+        <div style="max-width: 100rem;">
+          <div class="grid grid-flow-row-dense grid-cols-3 gap-4">
+            {{ range .Params.metrics }}
+              <div style="height: 200px; background-color: {{ .color }}"
+                  class="col-span-1 px-7 py-10">
+                  <h2 class="mt-2">
+                    {{ .title | markdownify }}
+                  </h2>
+                  <h4 class="mt-2">
+                    {{ .content | markdownify  }}
+                  </h4>
+                </div>
+            {{ end }}
+          </div>
         </div>
+
       </section>
     {{ end }}
   {{ end }}

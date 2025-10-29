@@ -7,21 +7,12 @@ description: ""
 testimonials:
   - name: "Marvin McKinney"
     greetings: "Terkuin ..."
-    avatar: "/images/avatar-sm.png"
+    avatar: "/images/partners/oulu.png"
     content: "Yhteistyöasiaa"
 
   - name: "Marvin McKinney"
     greetings: "Terkuin ..."
-    avatar: "/images/avatar-sm.png"
-    content: "Yhteistyöasiaa"
-
-  - name: "Marvin McKinney"
-    greetings: "Terkuin ..."
-    avatar: "/images/avatar-sm.png"
-    content: "Yhteistyöasiaa"
-  - name: "Marvin McKinney"
-    greetings: "Terkuin ..."
-    avatar: "/images/avatar-sm.png"
+    avatar: "/images/partners/kempele.png"
     content: "Yhteistyöasiaa"
 
 # don't create a separate page
