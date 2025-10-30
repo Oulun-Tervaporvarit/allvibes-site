@@ -7,7 +7,8 @@ banner:
   button:
     enable: true
     label: "Avaa passi"
-    link: "https://example.org"
+    # link: "https://example.org"
+    link: "javascript:alert('Passi työn alla!')"
 
 # Features
 features:
