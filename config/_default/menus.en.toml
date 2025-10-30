@@ -6,25 +6,25 @@ name = "Etusivu"
 url = "/"
 weight = 1
 
-[[main]]
-name = "Mitä on VIBEs?"
-url = "/about"
-weight = 2
+#[[main]]
+#name = "Mitä on VIBEs?"
+#url = "/about"
+#weight = 2
 
-[[main]]
-name = "Vibes-passi"
-url = "/elements"
-weight = 3
+#[[main]]
+#name = "Vibes-passi"
+#url = "/elements"
+#weight = 3
 
 [[main]]
 name = "Yhteistyökumppanit"
 url = "/#kumppanit"
 weight = 4
 
-[[main]]
-name = "Yhteystiedot"
-url = "/yhteystiedot"
-weight = 5
+#[[main]]
+#name = "Yhteystiedot"
+#url = "/yhteystiedot"
+#weight = 5
 
 #[[main]]
 #parent = "Pages"
@@ -53,19 +53,19 @@ weight = 5
 
 
 # footer menu
-[[footer]]
-name = "Mikä on VIBEs?"
-url = "/tietoa"
-weight = 1
-[[footer]]
-name = "VIBEs-passi"
-url = "/passi"
-weight = 2
+#[[footer]]
+#name = "Mikä on VIBEs?"
+#url = "/tietoa"
+#weight = 1
+#[[footer]]
+#name = "VIBEs-passi"
+#url = "/passi"
+#weight = 2
 [[footer]]
 name = "Yhteistyökumppanit"
-url = "/#testimonials"
+url = "/#kummpanit"
 weight = 2
 [[footer]]
 name = "Ota yhteyttä"
-url = "https://example.org"
+url = "mailto:vibes@jciouluntervaporvarit.fi"
 weight = 3
