@@ -34,7 +34,7 @@ hemmottelua. Tämän VIBEs haluaa Oulun seudun nuorille mahdollistaa – täysin
 
   - title: "Tule mukaan vibesiin"
     image: "/images/background-smiles.png"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    content: "VIBEs tarjoaa yhteistyökumppaneille mahdollisuuden näkyvään ja merkitykselliseen vastuullisuustyöhön. Yhteistyössä autamme nuoria voimaan paremmin ja samalla vahvistamme yritysten brändiä. VIBEs tarjoaa yrityksille valmiin ja helpon konseptin, jonka kautta tehdään aidosti hyvää ja autetaan nuoria löytämään omat tapansa voida paremmin."
     #bulletpoints:
     #  - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
     #  - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
