@@ -3,7 +3,7 @@
 banner:
   title: "ALL VIBES OK"
   content: ""
-  # image: "/images/banner.png"
+  image: "/images/vibes-leima.png"
   button:
     enable: true
     label: "Avaa passi"
@@ -13,7 +13,7 @@ banner:
 # Features
 features:
   - title: "Mitä on vibes?"
-    image: "/images/background-smiles.png"
+    image: "/images/vibes-leima.png"
     content: "Oulun Tervaporvarien Nuorkauppakamarin VIBEs-projektin tavoite on edistää nuorten mielenterveyttä ja hyvinvointia Oulun alueella. Se on vastalause ’’good vibes only’’ -ideologialle, koska kun
 keskustellaan mielenterveydestä on otettava huomioon, että kaikki
 erilaiset tunteet ovat sallittuja ja niistä tulee pystyä puhumaan
