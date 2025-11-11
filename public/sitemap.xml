@@ -62,8 +62,6 @@
   </url><url>
     <loc>//localhost:1313/elements/</loc>
   </url><url>
-    <loc>//localhost:1313/about/</loc>
-  </url><url>
     <loc>//localhost:1313/authors/john-doe/</loc>
   </url><url>
     <loc>//localhost:1313/pages/</loc>
@@ -73,6 +71,8 @@
     <loc>//localhost:1313/authors/sam-wilson/</loc>
   </url><url>
     <loc>//localhost:1313/sections/</loc>
+  </url><url>
+    <loc>//localhost:1313/about/</loc>
   </url><url>
     <loc>//localhost:1313/authors/william-jacob/</loc>
   </url>

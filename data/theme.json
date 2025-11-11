@@ -4,7 +4,7 @@
       "theme_color": {
         "primary": "orange",
         "blue": "#89C1FF",
-        "body": "black",
+        "body": "#89C1FF",
         "border": "#eaeaea",
         "light": "#f6f6f6",
         "dark": "#f7f3f0",
