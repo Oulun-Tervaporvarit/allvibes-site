@@ -66,11 +66,11 @@
   </url><url>
     <loc>//localhost:1313/pages/</loc>
   </url><url>
-    <loc>//localhost:1313/privacy-policy/</loc>
-  </url><url>
     <loc>//localhost:1313/authors/sam-wilson/</loc>
   </url><url>
     <loc>//localhost:1313/sections/</loc>
+  </url><url>
+    <loc>//localhost:1313/privacy-policy/</loc>
   </url><url>
     <loc>//localhost:1313/about/</loc>
   </url><url>
