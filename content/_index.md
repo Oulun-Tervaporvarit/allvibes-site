@@ -40,7 +40,7 @@ hemmottelua. Tämän VIBEs haluaa Oulun seudun nuorille mahdollistaa – täysin
     #  - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
     #  - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
     button:
-      enable: false
+      enable: true
       label: "Lue lisää"
-      link: "https://example.org"
+      link: "/yrityksille"
 ---

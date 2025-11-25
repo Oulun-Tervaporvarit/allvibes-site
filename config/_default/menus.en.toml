@@ -8,7 +8,7 @@ weight = 1
 
 [[main]]
 name = "Yrityksille"
-url = "/about"
+url = "/yrityksille"
 weight = 2
 
 #[[main]]

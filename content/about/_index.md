@@ -1,73 +1,23 @@
 ---
-title: "VIBEs – all vibes ok"
-meta_title: "VIBEs – all vibes ok"
-description: "VIBEs – all vibes ok"
+title: "Mitä on VIBEs?"
+meta_title: "Mitä on VIBEs"
+description: "Mitä on VIBEs"
 draft: false
 ---
-Suomen nuoret tarvitsevat nyt enemmän tukea kuin koskaan. Hoitoonpääsyn odotusajat mielenterveyspalveluissa ovat liian pitkät nuorelle, joka tarvitsee heti tukea arkeensa. Terapiatakuun pitäisi mahdollistaa aikaisempaa rivakampi hoitoon pääsy, mutta tarvitsemme sen oheen ennaltaehkäisevää ja hyvinvointia tukevaa toimintaa. **VIBEs-projekti** tarjoaa lisää hyvinvointia yritysyhteistyön keinoin: tekemistä ja elämyksiä, sekä niiden kautta syntyviä positiivisia, toivoa herätteleviä tuntemuksia ja kiinnittymispintoja ympäröivään yhteiskuntaan.
 
-**Mukaan tarvitaan yrityksiä ja organisaatioita, jotka haluavat toimia vastuullisesti ja olla mukana tukemassa nuorten hyvinvointia.**
+Nuorten pahoinvointi, hoitojonojen pituus ja katkeilevat hoitosuhteet ovat kasvaneet viime vuosina huolestuttavasti. Erityisesti peruskoulusta toiselle asteelle siirtyvä nivelvaiheen nuori on usein tilanteessa, jossa tuki ei kulje mukana. Moni hakee apua, mutta hoitosuhde voi katketa kesken, ja nuori jää yksin omien tunteidensa varaan. Tämä nousi esiin myös projektitiimimme aloittaessa työnsä: jonot saattoivat venyä jopa puolen vuoden mittaisiksi, ja hoitosuhde katkesi herkästi juuri nivelvaiheessa, jolloin tuki olisi kaikkein tärkeintä.
 
-## Mikä on VIBEs?
+Halusta auttaa ja tehdä jotain konreettista syntyi **VIBEs – all vibes ok**.
+Ajatuksesta, että jokainen tunne on tärkeä – eikä kenenkään tarvitse selvitä niistä yksin vaan yhteisön tuella.
 
-VIBEs on Oulun Tervaporvarien Nuorkauppakamarin käynnistämä projekti, jossa paikalliset yritykset tarjoavat palveluitaan maksutta nivelvaiheen nuorille (9. luokkalaiset ja toisen asteen 1. vuosikurssilaiset). VIBEs konsepti on palkittu vuonna 2025 Pohjois-Pohjanmaan liiton vuoden järjestöteko palkinnolla.
+VIBEs-projekti on täysin vapaaehtoisvoimin pyörivä yhteisöllinen hanke, jota koordinoimme Oulun Tervaporvarien Nuorkauppakamarin projektitiimin voimin. Meitä yhdistää yksi sydämen asia: halu rakentaa nuorille parempaa arkea, jossa tukea annetaan jo ennakoivasti, sekä terveydenhuollollisen hoidon lomassa ja jossa nuori voi löytää oman tapansa voida paremmin. Hyvinvointia voi löytää liikunnasta, kulttuurista, rauhoittumisesta tai muusta merkityksellisestä tekemisestä.
 
-Toteutuksessa nuori saa koulusta henkilökohtaisen koodin, jonka avulla hän voi kirjautua sähköiselle alustalle ja valita itselleen sopivia palveluita kulloinkin sopivaan fiilikseen ja tarpeeseen. Palvelu toteutetaan nettisivulla allvibes.fi
+Syksyllä 2026 käynnistyvä verkkopohjainen **VIBEs-passi** antaa oululaisille nuorille mahdollisuuden kokeilla täysin maksutta paikallisten yritysten tarjoamia hyvinvointipalveluja: liikuntaa, taide-elämyksiä, rentoutumista, opastettuja harrastuskokeiluja ja paljon muuta. Yritykset ja yhteisöt tarjoavat palvelunsa nuorille maksuttomasti, konkreettisena keinona edistää nuorten hyvinvointia ja tulevaisuudenuskoa.  
 
-## Ketä etsimme mukaan?
+VIBEs on saanut jo merkittävää tunnustusta: projekti palkittiin Pohjois-Pohjanmaan liiton vuoden järjestötekona 2025. VIBEs onkin meille enemmän kuin projekti.
+Se on lupaus olla se aikuinen, joka pysähtyy. Se yhteisö, joka todella kuuntelee.
+Ja ennen kaikkea se turvaverkko, joka kulkee nuoren rinnalla nivelvaiheen yli – silloin kun apua tarvitaan eniten.
 
-Etsimme yrityksiä kolmelta osa-alueelta:
+Mukana on tällä hetkellä noin 200 nuorta, joiden nuorten toiveista projektia on lähdetty rakentamaan. Kiinnostuneita yhteistyökumppaneita on jo ilmoittautunut mukaan hyväntekoon. Oletko sinäkin mukana?
 
-*   **Liikunta & aktiivisuus** – harrastukset, erilaiset treenimahdollisuudet, ryhmäliikunta, joukkuelajit ja luontoretket
-    
-*   **Kulttuuri & luovuus** – taide-elämykset, konsertit, teatteri, elokuvat, näyttelyt, työpajat, soiton opetus
-    
-*   **Hyvinvointi & palautuminen** – hemmottelu, rentoutuminen, rentoutushoidot, eläimiin liittyvä toiminta, hieronta, meikki/kampausopetus
-    
-
-Yritys voi itse määritellä, mitä palveluita tarjoaa. Voitte siis itse määritellä minkälaisia toiveita teillä olisi tarjoamienne palveluiden suhteen - ne voivat olla esimerkiksi tiettyihin kellonaikoihin sidottuja. Nuoret ovat toivoneet mahdollisuutta ottaa kaveri mukaan palveluiden käyttöön.
-
-## Mitä yritys saa?
-
-Osallistumalla VIBEs-projektiin yrityksesi:
-
-*   Tukee nuorten mielenterveyttä helposti matalalla kynnyksellä
-    
-*   Toteuttaa sosiaalista vastuuta ja vaikuttaa positiivisesti yhteiskunnallisesti
-    
-*   Saa näkyvyyttä Oulun Tervaporvarien Nuorkauppakamarin somekanavissa, projektin verkkosivuilla ja somessa, sekä mahdollisesti lehdistössä
-    
-*   Voi hyödyntää osallistumistaan myös omissa markkinointikanavissaan
-    
-*   Pääsee mukaan Oulun Tervaporvarien Nuorkauppakamarin yhteistyökumppaniverkostoon ja verkostoitumistilaisuuksiin
-    
-*   Saa mahdollisia tulevaisuuden asiakkaita nuorista ja heidän perheistään
-    
-
-## Käytännön toteutus
-
-*   Yritys tekee yhteistyösopimuksen yhteyshenkilömme **Anela Denicin** kanssa.
-    
-*   Sovitaan, mitä palveluita yritys tarjoaa nuorille ja millä ehdoin.
-    
-*   Palvelut lisätään VIBEs-alustalle, josta nuoret voivat niitä hyödyntää kuuden kuukauden aikajaksolla syksystä 2026 lähtien.
-    
-
-## Milloin?
-
-*   **Syksy 2026** – VIBEs käynnistyy pilotilla, mukana n. 200 nuorta kahdesta oppilaitoksesta
-    
-*   Tavoitteena on luoda konsepti, joka voi kasvaa alueittain jopa valtakunnalliseksi – aivan kuten nuorkauppakamarin alulle laittama Joulupuu-keräys tai TET-harjoittelu. Kiinnostusta kansalliseen laajentamiseen onkin jo herännyt!
-    
-
-## Liity mukaan luomaan nuorille toivoa ja uusia kokemuksia.
-
-👉 Ota yhteyttä: \[nimi & sähköposti\]
-
-allvibes.fi
-
-[vibes@jciouluntervaporvarit.fi](mailto:vibes@jciouluntervaporvarit.fi)
-
-instagram: all.vibes.ok
-
-Oulun Tervaporvarien Nuorkauppakamarin sivut: https://jciouluntervaporvarit.fi/
+**Not good vibes only – all VIBEs ok.**
