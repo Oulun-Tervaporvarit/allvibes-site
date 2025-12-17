@@ -5,9 +5,13 @@ description: ""
 
 # Testimonials
 testimonials:
-  - name: "Marvin McKinney"
+  - name: "Oulu"
     greetings: "Terkuin ..."
     avatar: "/images/partners/oulu.png"
+    content: "Yhteistyöasiaa"
+  - name: "Rotary"
+    greetings: "Terkuin ..."
+    avatar: "/images/partners/rotary.png"
     content: "Yhteistyöasiaa"
 
   #- name: "Marvin McKinney"
