@@ -67,5 +67,5 @@ url = "/#kummpanit"
 weight = 2
 [[footer]]
 name = "Ota yhteyttä"
-url = "mailto:vibes@jciouluntervaporvarit.fi"
+url = "/contact"
 weight = 3

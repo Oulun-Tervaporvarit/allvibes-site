@@ -39,7 +39,8 @@
     {{ partial "search-modal.html" (dict "Context" . ) }}
 
 
-    <main>
+    <!-- dirty hack to fix footer to bottom by setting min-height -->
+    <main style="min-height: calc(100vh - 400px);">
       {{ block "main" . }}{{ end }}
     </main>
 
