@@ -19,7 +19,8 @@
 
 .testimonials {
   top: -10px;
-  background-color: #f7f3f0;
+  /*background-color: #f7f3f0;*/
+  background-color: #f7f3f0c2;
   color: black;
 }
 

@@ -132,9 +132,19 @@
                         </div>
                       </div>
                     </div>-->
-
-                    <div class="px-5 py-5">
+                    
+                    {{ if .link }}
+                      <a href="{{ .link }}">
+                        <div class="px-5 py-5">
                         {{ partial "image" (dict "Src" .avatar "Size" "200x" "Alt" .name) }}
+                      </a>
+                    {{ else }}
+                      <div class="px-5 py-5">
+                        {{ partial "image" (dict "Src" .avatar "Size" "200x" "Alt" .name) }}
+                    {{ end }}
+
+  
+
                           <!--{{ partial "image" (dict "Src" .avatar "Alt" .name) }}-->
         
                     </div>
