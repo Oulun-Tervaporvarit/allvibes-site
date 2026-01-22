@@ -33,10 +33,23 @@
     <!-- announcement -->
     {{ partialCached "announcement.html" . }}
 
+    {{ $logo := resources.GetMatch "images/background-smiles.png" }}
 
-    <!-- header (don't cache it) -->
-    {{ partial "essentials/header.html" . }}
-    {{ partial "search-modal.html" (dict "Context" . ) }}
+    <style>
+      .top-bg {
+        background-image: linear-gradient(rgba(0, 0, 0, .8), rgba(0, 0, 0, .8)), url({{$logo.Permalink}});
+        background-size: cover;
+        background-repeat: no-repeat;
+      }
+    </style>
+    
+
+    <div class="top-bg">
+      <!-- header (don't cache it) -->
+      {{ partial "essentials/header.html" . }}
+      {{ partial "search-modal.html" (dict "Context" . ) }}
+      {{ block "banner" . }}{{ end }}
+    </div>
 
 
     <!-- dirty hack to fix footer to bottom by setting min-height -->

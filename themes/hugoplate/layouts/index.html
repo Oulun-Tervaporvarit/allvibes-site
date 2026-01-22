@@ -1,16 +1,7 @@
-{{ define "main" }}
+{{ define "banner" }}
   <!-- Banner -->
-
-  {{ $logo := resources.GetMatch "images/background-smiles.png" }}
-
-  <style>
-    body {
-      background-image: linear-gradient(rgba(0, 0, 0, .8), rgba(0, 0, 0, .8)), url({{$logo.Permalink}});
-    }
-  </style>
-
   {{ with .Params.banner }}
-    <section class="section pt-14">
+    <section class="section pt-14 banner">
       <div class="container">
         <div class="row justify-center">
           <div class="lg:col-7 md:col-9 mb-8 text-center">
@@ -49,7 +40,23 @@
       </div>
     </section>
   {{ end }}
-  <!-- /Banner -->
+   <!-- /Banner -->
+{{ end}}
+
+{{ define "main" }}
+
+  {{ $logo := resources.GetMatch "images/background-smiles.png" }}
+
+  <style>
+    .testimonials {
+      background-image: linear-gradient(rgba(153, 147, 147, 0.92), rgba(153, 147, 147, 0.92)), url({{$logo.Permalink}});
+      background-size: cover;
+      background-repeat: no-repeat;
+    }
+  </style>
+
+
+ 
 
   <!-- Features -->
   {{ range $i, $e:= .Params.features }}
