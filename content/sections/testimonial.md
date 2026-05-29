@@ -101,6 +101,11 @@ testimonials:
     avatar: "/images/partners/nuvoo.png"
     content: "Yhteistyöasiaa"
     link: "https://nuvoo.com/fi-fi"
+  - name: "Värisilmä"
+    greetings: "Terkuin ..."
+    avatar: "/images/partners/varisilma.jpg"
+    content: "Yhteistyöasiaa"
+    link: "https://www.varisilma.fi/"
 
 
   #- name: "Marvin McKinney"
