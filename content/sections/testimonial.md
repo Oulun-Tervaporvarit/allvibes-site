@@ -88,7 +88,7 @@ testimonials:
     link: "https://www.painomiehet.fi/"
   - name: "munpiiri"
     greetings: "Terkuin ..."
-    avatar: "/images/partners/munpiiri.png"
+    avatar: "/images/partners/munpiiri.jpg"
     content: "Yhteistyöasiaa"
     link: "https://www.munpiiri.com/etusivu"
   - name: "Oulu Pride"
