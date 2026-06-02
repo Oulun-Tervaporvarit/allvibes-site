@@ -11,6 +11,41 @@ Me Oulun Tervaporvarien Nuorkauppakamarissa tarjoamme teille helpon tavan vahvis
 
 {{< asset-image src="images/vibes-partners.png" style="max-width: 200px;" >}}
 
+## 🎉 Läsnä with VIBEs – kulkue ja lanseeraus {#lasna-with-vibes}
+
+<div style="border: 3px solid #89C1FF; border-radius: 16px; padding: 1.25rem 1.75rem; margin: 1.5rem 0; background: rgba(137, 193, 255, 0.12);">
+
+### 📍 Rotuaari, Oulu &nbsp;•&nbsp; 🕒 Torstai 13.8.2026 klo 15–17
+
+(Korttelihaipakan yhteydessä)
+
+Tapahtuma on suunnattu yrityksille, palveluntarjoajille ja järjestöille 👉 sinulle, joka haluat olla mukana rakentamassa konkreettista ratkaisua nuorten hyvinvointiin.
+
+**Miksi osallistua?**
+Saat näkyvyyttä osana vaikuttavaa kokonaisuutta, brändisi vahvistuu vastuullisena toimijana, verkostoidut muiden toimijoiden kanssa, pääset mukaan VIBEs-yhteistyöhön ja olet mukana mahdollistamassa matalan kynnyksen palveluita nuorille. Osoitamme yhdessä läsnäolollamme, että me todellakin välitämme!
+
+**Iltapäivän ohjelma:**
+
+*   VIBEs-projektin ja -passin lanseeraus, yhteistyökumppanien esittelyjä ja haastatteluja
+*   Läsnä with VIBEs -kulkue keskustassa
+*   Toiminnallisia aktiviteetteja, verkostoitumista yritysten ja toimijoiden kanssa
+
+Yhteistyössä Kaleva Media, joten laittakaa firman logoa ylle näkyvyyden maksimoimiseksi 😉
+
+Tapahtuman jälkeen päivä jatkuu halutessanne Oulun Tervaporvarien Nuorkauppakamarin erillisessä kumppanuustilaisuudessa.
+
+Tapahtumalla keräämme varoja VIBEs-toiminnan mahdollistamiseen.
+
+💛 Kumppaniksi pääsee mukaan alkaen 100 € &nbsp;•&nbsp; 🩷 Tavoitteena kerätä tapahtumalla 14 000 € nuorten hyväksi
+
+Otetaan yhdessä ensimmäinen merkityksellinen askel VIBEs-kulkueessa ja jatketaan rakentamalla parempaa arkea oululaisille nuorille 🤩
+
+<a class="btn btn-primary" href="https://forms.gle/qj1QhWaCxubS5oJb7" target="_blank" rel="noopener">Ilmoittaudu mukaan →</a> &nbsp; <a class="btn btn-outline-primary" href="https://www.linkedin.com/events/l-sn-withvibes-kulkuejalanseera7457146719550504960" target="_blank" rel="noopener">Näytä LinkedInissä →</a>
+
+Nähhäänhän elokuussa?
+
+</div>
+
 <details>
 <summary><strong>Mikä on VIBEs?</strong></summary>
 
@@ -54,44 +89,6 @@ Voit tukea tapahtumaa kahdella tavalla:
 *   Tukemalla toimintaa taloudellisesti osallistumalla yritysten yhteiseen kävelytapahtumaan kumppanina
 
 Tavoitteenamme on kerätä 15 000 euroa toiminnan mahdollistamiseen!
-
-</details>
-
-<details>
-<summary><strong>Läsnä with VIBEs- kulkue ja lanseeraustilaisuus (Oulu)</strong></summary>
-
-📍 Rotuaari, Oulu 
-
-🕒 Torstai 13.8.2026 klo 15–17 (Korttelihaipakan yhteydessä)
-
-Tapahtuma on suunnattu yrityksille, palveluntarjoajille ja järjestöille
-👉 sinulle, joka haluat olla mukana rakentamassa konkreettista ratkaisua nuorten hyvinvointiin
-
-Miksi osallistua?
-Saat näkyvyyttä osana vaikuttavaa kokonaisuutta, brändisi vahvistuu vastuullisena toimijana, verkostoidut muiden toimijoiden kanssa, pääset mukaan VIBEs-yhteistyöhön, olet mukana mahdollistamassa matalan kynnyksen palveluita nuorille. Osoitamme yhdessä läsnäolollamme että me todellakin välitämme!
-
-Iltapäivän ohjelma:
-VIBES-projektin ja -passin lanseeraus, yhteistyökumppanien esittelyjä ja haastatteluja
--Läsnä with VIBES-kulkue keskustassa
--Toiminnallisia aktiviteetteja, verkostoitumista yritysten ja toimijoiden kanssa
-
-Yhteistyössä Kaleva Media, joten laittakaa firman logoa ylle näkyvyyden maksimoimiseksi 😉
-
-Tapahtuman jälkeen päivä jatkuu halutessanne Oulun Tervaporvarien Nuorkauppakamarin erillisessä kumppanuus tilaisuudessa.
-
-Tapahtumalla keräämme varoja VIBES-toiminnan mahdollistamiseen.
-
-💛 Kumppaniksi pääsee mukaan alkaen 100 €
-
-🩷 Tavoitteena kerätä tapahtumalla 14 000 € nuorten hyväksi
-
-Otetaan yhdessä ensimmäinen merkityksellinen askel VIBEs-kulkueessa ja jatketaan rakentamalla parempaa arkea oululaisille nuorille 🤩
-
-Ilmoittaudu mukaan, niin otamme sinuun yhteyttä: https://forms.gle/qj1QhWaCxubS5oJb7
-
-Näytä myös LinkedInissä, että olet mukana:  https://www.linkedin.com/events/l-sn-withvibes-kulkuejalanseera7457146719550504960
-
-Nähhäänhän elokuussa?
 
 </details>
 
