@@ -11,6 +11,11 @@ name = "Yrityksille"
 url = "/yrityksille"
 weight = 2
 
+[[main]]
+name = "Läsnä with VIBEs"
+url = "/yrityksille#lasna-with-vibes"
+weight = 3
+
 #[[main]]
 #name = "Vibes-passi"
 #url = "/elements"
