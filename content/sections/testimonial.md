@@ -101,6 +101,16 @@ testimonials:
     avatar: "/images/partners/varisilma.jpg"
     content: "Yhteistyöasiaa"
     link: "https://www.varisilma.fi/"
+  - name: "Hellon"
+    greetings: "Terkuin ..."
+    avatar: "/images/partners/hellon.png"
+    content: "Yhteistyöasiaa"
+    link: "https://hellon.com/"
+  - name: "MPS"
+    greetings: "Terkuin ..."
+    avatar: "/images/partners/mps.jpg"
+    content: "Yhteistyöasiaa"
+    link: "https://www.mps.fi/"
 
 
   #- name: "Marvin McKinney"
