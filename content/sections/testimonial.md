@@ -111,6 +111,11 @@ testimonials:
     avatar: "/images/partners/mps.jpg"
     content: "Yhteistyöasiaa"
     link: "https://www.mps.fi/"
+  - name: "ODL"
+    greetings: "Terkuin ..."
+    avatar: "/images/partners/odl.png"
+    content: "Yhteistyöasiaa"
+    link: "https://www.odl.fi/"
 
 
   #- name: "Marvin McKinney"
