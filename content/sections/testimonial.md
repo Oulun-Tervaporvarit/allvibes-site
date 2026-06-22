@@ -116,6 +116,16 @@ testimonials:
     avatar: "/images/partners/odl.png"
     content: "Yhteistyöasiaa"
     link: "https://www.odl.fi/"
+  - name: "Vuolle Poikien Talo"
+    greetings: "Terkuin ..."
+    avatar: "/images/partners/vuolle-poikien-talo.jpg"
+    content: "Yhteistyöasiaa"
+    link: "https://www.vuolle.fi/"
+  - name: "Vuolle Tyttöjen Talo"
+    greetings: "Terkuin ..."
+    avatar: "/images/partners/vuolle-tyttojen-talo.jpg"
+    content: "Yhteistyöasiaa"
+    link: "https://www.vuolle.fi/"
 
 
   #- name: "Marvin McKinney"
