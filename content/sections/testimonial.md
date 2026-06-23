@@ -143,7 +143,7 @@ testimonials:
     link: "https://oulupodi.fi/"
   - name: "Business Asema"
     greetings: "Terkuin ..."
-    avatar: "/images/partners/businessasema.jpg"
+    avatar: "/images/partners/businessasema.png"
     content: "Yhteistyöasiaa"
     link: "https://www.businessasema.fi/"
 
