@@ -108,7 +108,7 @@ testimonials:
     link: "https://hellon.com/"
   - name: "MPS"
     greetings: "Terkuin ..."
-    avatar: "/images/partners/mps.jpg"
+    avatar: "/images/partners/mps.png"
     content: "Yhteistyöasiaa"
     link: "https://www.mps.fi/"
   - name: "ODL"
