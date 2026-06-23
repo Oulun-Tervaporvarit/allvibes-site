@@ -128,7 +128,7 @@ testimonials:
     link: "https://www.vuolle.fi/"
   - name: "Pelibunkkeri"
     greetings: "Terkuin ..."
-    avatar: "/images/partners/pelibunkkeri.jpg"
+    avatar: "/images/partners/pelibunkkeri.png"
     content: "Yhteistyöasiaa"
     link: "https://pelibunkkeri.fi/"
   - name: "OSAO"
