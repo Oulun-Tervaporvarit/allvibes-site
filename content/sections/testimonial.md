@@ -141,6 +141,11 @@ testimonials:
     avatar: "/images/partners/oulupodi.png"
     content: "Yhteistyöasiaa"
     link: "https://oulupodi.fi/"
+  - name: "Business Asema"
+    greetings: "Terkuin ..."
+    avatar: "/images/partners/businessasema.jpg"
+    content: "Yhteistyöasiaa"
+    link: "https://www.businessasema.fi/"
 
 
   #- name: "Marvin McKinney"
