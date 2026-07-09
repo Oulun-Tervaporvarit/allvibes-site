@@ -146,6 +146,16 @@ testimonials:
     avatar: "/images/partners/businessasema.png"
     content: "Yhteistyöasiaa"
     link: "https://www.businessasema.fi/"
+  - name: "Oppi-Paletti"
+    greetings: "Terkuin ..."
+    avatar: "/images/partners/oppipaletti.png"
+    content: "Yhteistyöasiaa"
+    link: "https://www.oppipaletti.fi/"
+  - name: "KIF Design"
+    greetings: "Terkuin ..."
+    avatar: "/images/partners/kif.png"
+    content: "Yhteistyöasiaa"
+    link: "https://www.kifdesign.fi/"
 
 
   #- name: "Marvin McKinney"
