@@ -156,6 +156,11 @@ testimonials:
     avatar: "/images/partners/kif.png"
     content: "Yhteistyöasiaa"
     link: "https://www.kifdesign.fi/"
+  - name: "4H Oulu"
+    greetings: "Terkuin ..."
+    avatar: "/images/partners/4h.png"
+    content: "Yhteistyöasiaa"
+    link: "https://oulu.4h.fi/"
 
 
   #- name: "Marvin McKinney"
