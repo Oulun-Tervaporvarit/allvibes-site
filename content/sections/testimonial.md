@@ -155,7 +155,7 @@ testimonials:
     greetings: "Terkuin ..."
     avatar: "/images/partners/kif.png"
     content: "Yhteistyöasiaa"
-    link: "https://www.kifdesign.fi/"
+    link: "https://www.instagram.com/kifdesign/"
   - name: "4H Oulu"
     greetings: "Terkuin ..."
     avatar: "/images/partners/4h.png"
