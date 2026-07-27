@@ -11,7 +11,7 @@ Voit tukea oululaisten nuorten mielenterveyttä lahjoittamalla VIBEs-projektin p
 
 ### 💛 Näin lahjoitat
 
-Lahjoituksen minimimäärä on **5 € / maksukerta**. Lahjoitus voi olla kertalahjoitus tai jatkuva lahjoitus.
+Lahjoituksen minimimäärä on **1 € / maksukerta**. Lahjoitus voi olla kertalahjoitus tai jatkuva lahjoitus.
 
 **MobilePay:** lahjoita kätevästi MobilePaylla keräyksen alettua 1.8.2026.
 
