@@ -15,34 +15,52 @@ Me Oulun Tervaporvarien Nuorkauppakamarissa tarjoamme teille helpon tavan vahvis
 
 <div style="border: 3px solid #89C1FF; border-radius: 16px; padding: 1.25rem 1.75rem; margin: 1.5rem 0; background: rgba(137, 193, 255, 0.12);">
 
-### 📍 Rotuaari, Oulu &nbsp;•&nbsp; 🕒 Torstai 13.8.2026 klo 15–17
+### 📍 Rotuaari, Oulu &nbsp;•&nbsp; 🕒 Torstai 13.8.2026 klo 15.00–16.30
 
 (Korttelihaipakan yhteydessä)
 
-Tapahtuma on suunnattu yrityksille, palveluntarjoajille ja järjestöille 👉 sinulle, joka haluat olla mukana rakentamassa konkreettista ratkaisua nuorten hyvinvointiin.
+Läsnä with VIBEs – tehdään yhdessä näkyväksi, että nuoret eivät ole yksin 💛
+
+Läsnä with VIBEs on yhteinen hetki, jossa me oululaiset osoitamme nuorille konkreettisesti, että välitämme. Kutsumme mukaan yrityksiä, palveluntarjoajia, järjestöjä, päättäjiä sekä kaikkia muita, joille nuorten hyvinvointi on tärkeä asia.
+
+👉 Tämä kutsu on juuri sinulle, joka haluat olla mukana rakentamassa uudenlaisia ratkaisuja nuorten hyvinvoinnin tueksi ja osoittamassa, että yhteisöllisyydellä on voimaa.
 
 **Miksi osallistua?**
-Saat näkyvyyttä osana vaikuttavaa kokonaisuutta, brändisi vahvistuu vastuullisena toimijana, verkostoidut muiden toimijoiden kanssa, pääset mukaan VIBEs-yhteistyöhön ja olet mukana mahdollistamassa matalan kynnyksen palveluita nuorille. Osoitamme yhdessä läsnäolollamme, että me todellakin välitämme!
 
-**Iltapäivän ohjelma:**
+**Yrityksille ja yhteistyökumppaneille**
 
-*   VIBEs-projektin ja -passin lanseeraus, yhteistyökumppanien esittelyjä ja haastatteluja
-*   Läsnä with VIBEs -kulkue keskustassa
-*   Toiminnallisia aktiviteetteja, verkostoitumista yritysten ja toimijoiden kanssa
+Osallistumalla kumppanina:
 
-Yhteistyössä Kaleva Media, joten laittakaa firman logoa ylle näkyvyyden maksimoimiseksi 😉
+*   Organisaationne mainitaan Kalevan kaupallisessa artikkelissa
+*   Saatte logonäkyvyyttä allvibes.fi-sivustolla
+*   Vahvistatte brändiänne vastuullisena ja nuorten hyvinvointia tukevana toimijana
+*   Saatte käyttöönne VIBEs-yhteistyölogon viestintäänne varten
+*   Verkostoidutte muiden alueen yritysten ja toimijoiden kanssa
+*   Olette mukana mahdollistamassa matalan kynnyksen hyvinvointipalveluita nuorille
 
-Tapahtuman jälkeen päivä jatkuu halutessanne Oulun Tervaporvarien Nuorkauppakamarin erillisessä kumppanuustilaisuudessa.
+Tapahtumalla keräämme varoja mahdollistamaan matalan kynnyksen hyvinvointipalveluita nuorille.
 
-Tapahtumalla keräämme varoja VIBEs-toiminnan mahdollistamiseen.
+💛 Kumppaniksi mukaan alkaen 100 € &nbsp;•&nbsp; 🩷 Tavoitteena kerätä 14 000 € nuorten hyväksi
 
-💛 Kumppaniksi pääsee mukaan alkaen 100 € &nbsp;•&nbsp; 🩷 Tavoitteena kerätä tapahtumalla 14 000 € nuorten hyväksi
+Yhteistyössä Kaleva Media – yritysedustajat voivat halutessaan pukeutua yrityksen logolla varustettuihin asuihin näkyvyyden lisäämiseksi.
+
+**Päättäjille, järjestöille ja meille kaikille**
+
+Pääset mukaan yhteisölliseen tapahtumaan, jossa eri sektoreiden toimijat ja kaupunkilaiset näyttävät yhdessä läsnäolon voiman. Samalla olet mukana käynnistämässä uudenlaista innovatiivista toimintamallia, jonka laajentamista suunnitellaan jo myös Helsinkiin.
+
+Yleisön pyynnöstä olemme käynnistämässä myös yksityishenkilöille mahdollisuuden tukea projektia pienkeräyksen avulla.
+
+**Iltapäivän ohjelma**
+
+*   Klo 15.00 VIBEs-projektin ja -passin lanseeraus sekä puheenvuoroja nuorten mielenterveydestä
+*   Klo 15.15 Läsnä with VIBEs -kulkue Oulun keskustassa
+*   Klo 15.30 Toiminnallisia aktiviteetteja ja kohtaamisia sekä verkostoitumista yritysten, järjestöjen ja muiden toimijoiden kanssa
 
 Otetaan yhdessä ensimmäinen merkityksellinen askel VIBEs-kulkueessa ja jatketaan rakentamalla parempaa arkea oululaisille nuorille 🤩
 
-<a class="btn btn-primary" href="https://forms.gle/qj1QhWaCxubS5oJb7" target="_blank" rel="noopener">Ilmoittaudu mukaan →</a> &nbsp; <a class="btn btn-outline-primary" href="https://www.linkedin.com/events/l-sn-withvibes-kulkuejalanseera7457146719550504960" target="_blank" rel="noopener">Näytä LinkedInissä →</a>
+Nähhäänhän Rotuaarilla elokuussa?
 
-Nähhäänhän elokuussa?
+<a class="btn btn-outline-primary" href="https://www.linkedin.com/events/l-sn-withvibes-kulkuejalanseera7457146719550504960" target="_blank" rel="noopener">Näytä LinkedInissä →</a>
 
 </div>
 
@@ -56,7 +74,7 @@ Toteutuksessa nuori saa koulusta henkilökohtaisen koodin, jonka avulla hän voi
 </details>
 
 <details>
-<summary><strong>Ketä etsimme mukaan?</strong></summary>
+<summary><strong>Palveluntarjoajaksi?</strong></summary>
 
 Etsimme syyslukukaudelle 2026 mukaan rajattua määrää palveluntarjoajia kahdesta kategoriasta:
 
@@ -83,27 +101,27 @@ Yhteistyö on yritykselle vaivatonta. Allekirjoitamme sopimuksen, jossa sovimme 
 <details>
 <summary><strong>Muita keinoja olla tekemässä hyvää!</strong></summary>
 
-Voit tukea tapahtumaa kahdella tavalla:
+Voit tukea VIBEs projektia:
 
+*   Tukemalla toimintaa taloudellisesti toimimalla rahoituskumppanina (yritykset ja järjestöt)
 *   Lahjoittamalla markkinointi- tai tapahtumamateriaaleja (tarroja, heijastimia tms.)
-*   Tukemalla toimintaa taloudellisesti osallistumalla yritysten yhteiseen kävelytapahtumaan kumppanina
+*   Yksityishenkilönä osallistumalla pienkeräykseen
 
-Tavoitteenamme on kerätä 15 000 euroa toiminnan mahdollistamiseen!
+Tavoitteenamme on kerätä 14 000 euroa toiminnan mahdollistamiseen!
 
 </details>
 
 <details>
-<summary><strong>Mitä muuta rahakumppani saa?</strong></summary>
+<summary><strong>Mitä saat rahoituskumppanina?</strong></summary>
 
 Kumppanina olet osa vastuullisten oululaisten yrittäjien yhteisöä, joka rakentaa kaupungin elinvoimaa, positiivista näkyvyyttä ja tulevaisuuden osaajapohjaa.
 
-Lisäksi VIBEs tarjoaa yrityksellenne:
+Lisäksi VIBEs tarjoaa organisaatiollenne:
 
 *   Konkreettisen tavan tukea nuorten mielenterveyttä, osallisuutta ja syrjäytymisen ehkäisyä
-*   Mahdollisuuden vahvistaa ESG- ja vastuullisuusraportointia (erityisesti sosiaalinen vastuu)
-*   Verovähennyskelpoisen lahjoituksen
+*   Mahdollisuuden vahvistaa ESG- ja vastuullisuusraportointia
 *   "Yrityksemme tukee nuorten mielenterveystyötä" -tarran ja vektorimuotoisen logon omaan viestintään
-*   Logon tapahtumaan ja nettisivuille (allvibes.fi)
+*   Logon Läsnä with VIBEs tapahtumaan ja nettisivuille (allvibes.fi)
 *   Näkyvyyttä tapahtumissa, joihin osallistumme
 *   Brändin vahvistumista vastuullisena ja paikallisena toimijana
 
@@ -112,15 +130,15 @@ Lisäksi VIBEs tarjoaa yrityksellenne:
 <details>
 <summary><strong>Milloin?</strong></summary>
 
-Syyslukukausi 2026 – VIBEs käynnistyy pilotilla, mukana noin 400 nuorta kolmesta oppilaitoksesta
+Syyslukukausi 2026 – VIBEs käynnistyy pilotilla, mukana noin 460 nuorta neljästä oppilaitoksesta.
 
 Tavoitteena on luoda toimiva konsepti, joka voi kasvaa alueittain jopa valtakunnalliseksi – aivan kuten nuorkauppakamarin alulle laittama TET-harjoittelu. Kiinnostusta kansalliseen laajentamiseen onkin jo herännyt!
 
-Pilottivaiheessa pääset vaikuttamaan konseptin luomiseen - olemmekin erittäin kiinnostuneita näkemyksistänne!
+Pilottivaiheessa pääset vaikuttamaan konseptin luomiseen - olemmekin erittäin kiinnostuneita näkemyksistänne ja arvostamme palautettanne!
 
 </details>
 
-**Niin isot kuin pienetkin panostukset ohjautuvat nuorten hyvinvoinnin tukemiseen ja vievät toimintaa eteenpäin. Liity mukaan luomaan nuorille toivoa ja uusia kokemuksia!**
+**Niin isot kuin pienetkin panostukset ohjautuvat nuorten hyvinvoinnin tukemiseen ja vievät toimintaa eteenpäin. Liity siis mukaan luomaan nuorille toivoa ja uusia kokemuksia!**
 
 👉 Ota yhteyttä
 
