@@ -161,6 +161,11 @@ testimonials:
     avatar: "/images/partners/4h.png"
     content: "Yhteistyöasiaa"
     link: "https://oulu.4h.fi/"
+  - name: "Oulu Pride"
+    greetings: "Terkuin ..."
+    avatar: "/images/partners/oulupride.png"
+    content: "Yhteistyöasiaa"
+    link: "https://www.oulupride.fi/"
 
 
   #- name: "Marvin McKinney"
