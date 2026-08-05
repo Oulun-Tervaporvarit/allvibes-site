@@ -7,8 +7,10 @@ banner:
   button:
     enable: true
     label: "Avaa passi"
-    # link: "https://example.org"
-    link: "javascript:alert('Passi työn alla!')"
+    link: "https://passi.allvibes.fi"
+    # Passi becomes available on this date (YYYY-MM-DD). Before it, a notice is shown instead.
+    release_date: "2026-08-13"
+    release_notice: "Passi julkaistaan 13.8"
 
 # Features
 features:

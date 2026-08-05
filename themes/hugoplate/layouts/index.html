@@ -20,14 +20,42 @@
             </p>
             {{ with .button }}
               {{ if .enable }}
+                {{ $passiUrl := .link | default "https://passi.allvibes.fi" }}
                 <a
+                  id="passi-link"
                   class="btn btn-primary banner-button uppercase"
-                  href="javascript:alert('Passi työn alla!')"
-                  {{ if strings.HasPrefix .link `http` }}
+                  href="{{ $passiUrl }}"
+                  {{ with .release_date }}data-release-date="{{ . }}"{{ end }}
+                  {{ if strings.HasPrefix $passiUrl `http` }}
                     target="_blank" rel="noopener"
                   {{ end }}>
                   {{ .label }}
                 </a>
+                {{ with .release_notice }}
+                  <p id="passi-notice" class="mt-4 font-bold" style="display:none;">{{ . }}</p>
+                {{ end }}
+                {{ with .release_date }}
+                <script>
+                  (function () {
+                    var link = document.getElementById("passi-link");
+                    var notice = document.getElementById("passi-notice");
+                    if (!link) return;
+                    // Release at local midnight of the given date (YYYY-MM-DD).
+                    var releaseAt = new Date("{{ . }}T00:00:00");
+                    if (isNaN(releaseAt.getTime())) return;
+                    if (new Date() < releaseAt) {
+                      link.addEventListener("click", function (e) {
+                        e.preventDefault();
+                        if (notice) notice.style.display = "";
+                      });
+                      link.setAttribute("aria-disabled", "true");
+                      link.style.opacity = "0.6";
+                      link.style.cursor = "not-allowed";
+                      if (notice) notice.style.display = "";
+                    }
+                  })();
+                </script>
+                {{ end }}
               {{ end }}
             {{ end }}
           </div>
