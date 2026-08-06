@@ -15,6 +15,8 @@ Lahjoituksen minimimäärä on **1 € / maksukerta**. Lahjoitus voi olla kertal
 
 **MobilePay:** lahjoita kätevästi MobilePaylla keräyksen alettua 1.8.2026.
 
+**Kuukausittaisen lahjoituksen lopettaminen:** Kuukausittaisen (jatkuvan) lahjoituksen voi lopettaa milloin tahansa suoraan MobilePay-sovelluksesta tai ottamalla yhteyttä MobilePayn asiakaspalveluun.
+
 **Tilisiirto (pienkeräystili):**
 
 *   IBAN: **FI88 5741 4020 2049 34**
@@ -39,7 +41,7 @@ Pienkeräys järjestetään ajalla 01.08.2026 – 31.10.2026. Pienkeräyksen voi
 
 Lahjoituksen minimimäärä on 1 euroa / maksukerta.
 
-Lahjoitus voi olla kertalahjoitus tai jatkuva lahjoitus. Lahjoittajalla on oikeus keskeyttää jatkuva lahjoitus milloin tahansa. Jatkuvat lahjoitukset päättyvät automaattisesti pienkeräyksen päättyessä 31.10.2026.
+Lahjoitus voi olla kertalahjoitus tai jatkuva lahjoitus. Lahjoittajalla on oikeus keskeyttää jatkuva lahjoitus milloin tahansa. **Kuukausittaisen (jatkuvan) lahjoituksen voi lopettaa milloin tahansa suoraan MobilePay-sovelluksesta tai ottamalla yhteyttä MobilePayn asiakaspalveluun.** Jatkuvat lahjoitukset päättyvät automaattisesti pienkeräyksen päättyessä 31.10.2026.
 
 **Lahjoitusten palauttaminen:** Lahjoitukset ovat vapaaehtoisia eikä niitä pääsääntöisesti palauteta. Virheellisissä maksutilanteissa lahjoittaja voi ottaa yhteyttä pienkeräyksen järjestäjään.
 
