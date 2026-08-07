@@ -13,7 +13,11 @@ Voit tukea oululaisten nuorten mielenterveyttä lahjoittamalla VIBEs-projektin p
 
 Lahjoituksen minimimäärä on **1 € / maksukerta**. Lahjoitus voi olla kertalahjoitus tai jatkuva lahjoitus.
 
-**MobilePay:** lahjoita kätevästi MobilePaylla keräyksen alettua 1.8.2026.
+**MobilePay:** lahjoita kätevästi MobilePaylla. Skannaa alla oleva QR-koodi tai lahjoita MobilePay-numeroon **42752** (viite: VIBEs).
+
+{{< asset-image src="images/mobilepay-qr.png" style="max-width: 220px; width: 100%; height: auto; margin: 0.5rem 0;" >}}
+
+<a class="btn btn-primary" href="https://qr.mobilepay.fi/donations/42752?reference=VIBEs" target="_blank" rel="noopener">Lahjoita MobilePaylla →</a>
 
 **Kuukausittaisen lahjoituksen lopettaminen:** Kuukausittaisen (jatkuvan) lahjoituksen voi lopettaa milloin tahansa suoraan MobilePay-sovelluksesta tai ottamalla yhteyttä MobilePayn asiakaspalveluun.
 
