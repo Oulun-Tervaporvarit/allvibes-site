@@ -170,7 +170,7 @@ testimonials:
     greetings: "Terkuin ..."
     avatar: "/images/partners/krauta-valivainio.png"
     content: "Yhteistyöasiaa"
-    link: "https://www.k-rauta.fi/kauppa/valivainio"
+    link: "https://www.k-rauta.fi/myymalat/valivainio"
 
 
   #- name: "Marvin McKinney"
