@@ -166,6 +166,11 @@ testimonials:
     avatar: "/images/partners/oulupride.png"
     content: "Yhteistyöasiaa"
     link: "https://www.oulupride.fi/"
+  - name: "K-Rauta Välivainio"
+    greetings: "Terkuin ..."
+    avatar: "/images/partners/krauta-valivainio.png"
+    content: "Yhteistyöasiaa"
+    link: "https://www.k-rauta.fi/kauppa/valivainio"
 
 
   #- name: "Marvin McKinney"
