@@ -171,6 +171,11 @@ testimonials:
     avatar: "/images/partners/krauta-valivainio.png"
     content: "Yhteistyöasiaa"
     link: "https://www.k-rauta.fi/myymalat/valivainio"
+  - name: "Merta Run Club"
+    greetings: "Terkuin ..."
+    avatar: "/images/partners/merta-run-club.jpg"
+    content: "Yhteistyöasiaa"
+    link: "https://www.instagram.com/mertarunclub/"
 
 
   #- name: "Marvin McKinney"
