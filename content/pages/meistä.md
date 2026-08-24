@@ -22,8 +22,13 @@ VIBEsin takana häärää innokas nuorkauppakamarilaisten vapaaehtoisten joukko 
 - Satu Kontio - Kumppanuus- ja visuaalinen tiimi
 - Tamara Louis - Kumppanuudet ja markkinointi
 - Olli Remes - Kumppanuudet
-- Julia Hakala - Kumppanuudet
 - Juho Tuovila - Markkinointi
+
+Tukijoukkoina myös Julia Hakala, Taneli Harju, Samuli Laine, Enni Ojutkangas ja Riikka Järvitalo.
+
+Henkilökohtaiset sähköpostit ovat muotoa etunimi.sukunimi@jci.fi
+
+VIBEs-projektin sähköpostiosoite: [vibes@jciouluntervaporvarit.fi](mailto:vibes@jciouluntervaporvarit.fi)
 
 ----
 
