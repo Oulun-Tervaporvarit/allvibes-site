@@ -27,7 +27,7 @@ Tältä sivulta löydät yleistä materiaalia, jolla voit perehtyä VIBEs-passii
 
 Lyhyt VIBEs-esittelyvideo nuorille ja kouluille.
 
-{{< youtube yt_ra9LPKto >}}
+{{< youtube SnZOArNsTgI >}}
 
 </div>
 
