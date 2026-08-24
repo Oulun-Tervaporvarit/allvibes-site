@@ -5,7 +5,7 @@ description: "VIBEs-materiaalit kouluille: esittelymateriaali suomeksi ja englan
 draft: false
 ---
 
-Tälle sivulle on koottu VIBEs-materiaalit kouluille. Materiaalit ovat vapaasti käytettävissä VIBEsin esittelyyn nuorille sekä opinto-ohjauksen ja tutortoiminnan tukena.
+Tältä sivulta löydät yleistä materiaalia, jolla voit perehtyä VIBEs-passiin ja esitellä sitä oppilaille ja/tai henkilökunnalle oppilaitoksessasi. Olethan rohkeasti yhteyksissä, mikäli herää kysyttävää.
 
 <div style="border: 3px solid #89C1FF; border-radius: 16px; padding: 1.25rem 1.75rem; margin: 1.5rem 0; background: rgba(137, 193, 255, 0.12);">
 
