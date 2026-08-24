@@ -12,8 +12,8 @@ url = "/yrityksille"
 weight = 2
 
 [[main]]
-name = "Läsnä with VIBEs"
-url = "/yrityksille#lasna-with-vibes"
+name = "Kouluille"
+url = "/kouluille"
 weight = 3
 
 [[main]]
@@ -29,12 +29,12 @@ weight = 4
 [[main]]
 name = "Yhteistyökumppanit"
 url = "/#kumppanit"
-weight = 5
+weight = 6
 
 [[main]]
 name = "Meistä"
 url = "/meistä"
-weight = 6
+weight = 7
 
 #[[main]]
 #name = "Yhteystiedot"
