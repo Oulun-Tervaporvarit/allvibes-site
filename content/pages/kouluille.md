@@ -13,11 +13,11 @@ Tältä sivulta löydät yleistä materiaalia, jolla voit perehtyä VIBEs-passii
 
 **VIBEs 2026 -materiaali (suomeksi)** – esittelydiat kouluille (PowerPoint)
 
-<a class="btn btn-primary" href="https://drive.google.com/file/d/15Wlp3cpoIz9p-S8zGsi-HPLPjhoBRehO/view?usp=drive_link" target="_blank" rel="noopener">Avaa materiaali →</a>
+<a class="btn btn-primary" href="{{< asset-file src="VIBEs2026 -materiaali.pptx" >}}" target="_blank" rel="noopener">Avaa materiaali →</a>
 
 **VIBEs 2026 material (in English)** – introduction slides for schools (PowerPoint)
 
-<a class="btn btn-primary" href="https://drive.google.com/file/d/1rfWN3kPQOOJZsGL-ir14ctfg1wtragfy/view?usp=drive_link" target="_blank" rel="noopener">Open material →</a>
+<a class="btn btn-primary" href="{{< asset-file src="VIBEs2026 -material (eng.).pptx" >}}" target="_blank" rel="noopener">Open material →</a>
 
 </div>
 

@@ -1,0 +1,2 @@
+{{- $src := .Get "src" -}}
+{{- with resources.GetMatch $src -}}{{ .RelPermalink }}{{- else -}}{{ errorf "asset-file: no asset matched %q (%s)" $src $.Position }}{{- end -}}
